@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeeBugSolutions</string>
+    <string name="bee_bug_solutions">Bee Bug Solutions</string>
+    <string name="sign_in">SIGN-IN</string>
+    <string name="facebook_app_id">600435474232971</string>
+    <string name="fb_login_protocol_scheme">fb600435474232971</string>
+
+</resources>
